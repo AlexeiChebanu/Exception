@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Self-education\Beetroot\Exception\Exception\obj\Debug\Exception.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Self-education\Beetroot\Exception\Exception\obj\Debug\Exception.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Self-education\Beetroot\Exception\Exception\obj\Debug\Exception.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Self-education\Beetroot\Exception\Exception\bin\Debug\Exception.exe.config
+C:\Users\User\Desktop\Self-education\Beetroot\Exception\Exception\bin\Debug\Exception.exe
+C:\Users\User\Desktop\Self-education\Beetroot\Exception\Exception\bin\Debug\Exception.pdb
+C:\Users\User\Desktop\Self-education\Beetroot\Exception\Exception\obj\Debug\Exception.exe
+C:\Users\User\Desktop\Self-education\Beetroot\Exception\Exception\obj\Debug\Exception.pdb
